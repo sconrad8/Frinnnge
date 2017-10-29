@@ -1,0 +1,6 @@
+framework module Pods_Frinnnge {
+  umbrella header "Pods-Frinnnge-umbrella.h"
+
+  export *
+  module * { export * }
+}
